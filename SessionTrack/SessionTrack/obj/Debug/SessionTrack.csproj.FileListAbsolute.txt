@@ -1,0 +1,15 @@
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\bin\Debug\SessionTrack.exe.config
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\bin\Debug\SessionTrack.exe
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\bin\Debug\SessionTrack.pdb
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\bin\Debug\OxyPlot.dll
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\bin\Debug\OxyPlot.xml
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.csproj.AssemblyReference.cache
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.MainForm.resources
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.Properties.Resources.resources
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.csproj.GenerateResource.cache
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.csproj.CoreCompileInputs.cache
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.csproj.CopyComplete
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.exe
+C:\Users\COSMO\Documents\Visual Studio 2022\Projects\SessionTrack\SessionTrack\obj\Debug\SessionTrack.pdb
